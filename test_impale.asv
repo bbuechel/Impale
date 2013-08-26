@@ -1,0 +1,7 @@
+data_dir = 'C:\Users\buecheb\Documents\Data\';
+AnimalID = 'B07';
+session = 's07';
+
+
+FN = [data
+S = impaleLoad(FN)
